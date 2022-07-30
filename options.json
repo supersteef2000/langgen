@@ -1,0 +1,11 @@
+{
+  "vowels": "aeiouy",
+  "consonants": "bcdfghjklmnpqrstvwxz",
+  "max_vowels": 3,
+  "max_consonants": 3,
+  "allow_repeats": true,
+  "total_words": 100,
+  "min_length": 1,
+  "max_length": 10,
+  "switch_chance": 50
+}
